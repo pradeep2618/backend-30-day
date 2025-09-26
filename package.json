@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep2618/backend-30-day.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pradeep2618/backend-30-day/issues"
+  },
+  "homepage": "https://github.com/pradeep2618/backend-30-day#readme",
+  "description": ""
 }
